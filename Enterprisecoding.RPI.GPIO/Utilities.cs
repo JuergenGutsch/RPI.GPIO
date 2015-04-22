@@ -28,7 +28,10 @@ namespace Com.Enterprisecoding.RPI.GPIO {
             {PiModel.B, "Model B"},
             {PiModel.BP, "Model B+"},
             {PiModel.CM, "Model CM"},
-            {PiModel.Unknown, "Unknown Model"}
+            {PiModel.Unknown, "Unknown Model"},
+             {PiModel.A_plus, "Model A+"},
+             {PiModel.B2, "Model B2"}
+
         };
 
         private static Dictionary<PiVersion, string> piVersionNames = new Dictionary<PiVersion, string> {

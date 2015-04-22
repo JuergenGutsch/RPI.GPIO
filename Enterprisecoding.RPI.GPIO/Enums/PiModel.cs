@@ -21,6 +21,9 @@ namespace Com.Enterprisecoding.RPI.GPIO.Enums {
         A = 1,
         B = 2,
         BP = 3,
-        CM = 4
+        CM = 4,
+        AP = 5,
+        B2 = 6
+
     }
 }

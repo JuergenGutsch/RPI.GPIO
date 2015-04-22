@@ -20,6 +20,7 @@ namespace Com.Enterprisecoding.RPI.GPIO.Enums {
         Unknown = 0,
         EGOMAN = 1,
         SONY = 2,
-        QISDA = 3
+        QISDA = 3,
+        MBest = 4
     }
 }
